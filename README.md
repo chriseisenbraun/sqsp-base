@@ -1,4 +1,4 @@
-BASE - Squarespace template
+BASE - Squarespace Developer Template
 =========
 
 Base Squarespace template
