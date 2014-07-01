@@ -1,4 +1,8 @@
-BASE - Squarespace Developer Template
-=========
+# BASE
+--------------------
+### Squarespace Developer Template
 
-Base Squarespace template
+-----------------------
+
+
+Developer marketing site: [Link](http://developers.squarespace.com/)
