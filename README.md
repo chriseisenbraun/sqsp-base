@@ -4,7 +4,7 @@
 
 -----------------------
 
-Developer Site: [Link](http://developers.squarespace.com/initial-setup/)
+Developer site: [Link](http://developers.squarespace.com/initial-setup/)
 
 Developer marketing site: [Link](http://developers.squarespace.com/)
 
